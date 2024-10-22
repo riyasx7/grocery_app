@@ -1,6 +1,6 @@
 # Grocery Shop App
 
-![App Demo](https://github.com/riyasx7/grocery/assets/137524841/79a51842-ea3a-4ce7-b530-6c6d6781e24c)
+![App Demo](https://github.com/user-attachments/assets/3e5d8563-549b-4282-b0fc-ffdc8cd4a915)
 
 ## Overview
 
