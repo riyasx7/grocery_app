@@ -16,8 +16,7 @@ This Flutter app is a simple grocery shopping application that allows users to b
 - View order history
 
 ## Screenshots
-
-<img src="https://github.com/user-attachments/assets/bcfd3422-6211-4128-81ba-4203f9a82e56" alt="Screenshot 1" width="300"/>  <img src="https://github.com/user-attachments/assets/a0eecaa1-fa76-4726-99f0-cc6e111ef222)" alt="Screenshot 3" width="300"/> <img src="https://github.com/user-attachments/assets/55038c41-03da-4018-89e4-ff2ddbe0e06a" alt="Screenshot 2" width="300"/>
+<img src="https://github.com/user-attachments/assets/a0eecaa1-fa76-4726-99f0-cc6e111ef222)" alt="Screenshot 3" width="300"/> <img src="https://github.com/user-attachments/assets/55038c41-03da-4018-89e4-ff2ddbe0e06a" alt="Screenshot 2" width="300"/>
 
 
 ## Getting Started
