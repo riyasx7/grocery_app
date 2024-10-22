@@ -17,7 +17,7 @@ This Flutter app is a simple grocery shopping application that allows users to b
 
 ## Screenshots
 
-<img src="https://github.com/riyasx7/grocery/assets/137524841/58c41483-f46b-4b32-a5f6-502e45769a1e" alt="Screenshot 1" width="300"/>  <img src="https://github.com/riyasx7/grocery/assets/137524841/9000b09b-421d-4331-bcd0-e6c2a8e290f9" alt="Screenshot 2" width="300"/>
+<img src="https://github.com/user-attachments/assets/bcfd3422-6211-4128-81ba-4203f9a82e56" alt="Screenshot 1" width="300"/>  <img src="https://github.com/user-attachments/assets/a0eecaa1-fa76-4726-99f0-cc6e111ef222)" alt="Screenshot 2" width="300"/> <img src="https://github.com/user-attachments/assets/55038c41-03da-4018-89e4-ff2ddbe0e06a" alt="Screenshot 2" width="300"/>
 
 
 ## Getting Started
